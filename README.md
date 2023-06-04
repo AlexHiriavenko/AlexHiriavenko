@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexHiriavenko , Frontend Developer
-- 🌱 I’m currently learning NodeJS
+- 🌱 My tech stack: HTML, CSS, SCSS, Bootstrap, JavaScript - ES6, React, Redux, Git, GitLab, GitHub, Gulp, WepPack, Figma etc. I am currently learning NodeJS and related technologies
 - 💞️ I am seeking opportunities as a Frontend Developer and I'm excited to explore new offers and connect with like-minded in the field.
 - 📫 How to reach me https://www.linkedin.com/in/oleksii-hiriavenko/
 
