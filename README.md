@@ -2,8 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- &#128435; &nbsp; Passionate about front-end and programming in general.
-- &#9989; &nbsp; I have the necessary technology stack to develop modern applications and user interfaces. 
+#### &#128435; &nbsp; Passionate about front-end and programming in general.
+#### &#9989; &nbsp; I have the necessary technology stack to develop modern applications and user interfaces. 
+#### 💞️ I am seeking opportunities as a Frontend Developer and I'm excited to explore new offers and connect with like-minded in the field.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -14,18 +15,27 @@
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
     ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-    ![Readux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+    ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
     ![MUI](https://img.shields.io/badge/-Mui-333333?style=flat&logo=mui)
     ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 -   ⚙️ &nbsp;
     ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
     ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
     ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+-   🔧 &nbsp;
+    ![Gulp](https://img.shields.io/badge/-Gulp-333333?style=flat&logo=gulp)
+    ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
+    ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
+    ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+    ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
 
+<h3> 📫 &nbsp; Contacts & CV</h3>
 
-#### 💞️ I am seeking opportunities as a Frontend Developer and I'm excited to explore new offers and connect with like-minded in the field.
-#### 📃 My cv https://drive.google.com/file/d/18C7pwdXaULREjBnGeoD6vTAh0SF-41Qc/view?usp=sharing 
-#### 📫 How to reach me https://www.linkedin.com/in/oleksii-hiriavenko/
+#### &#128232; martmarchmartmarch@gmail.com
+#### [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/oleksii-hiriavenko//)
+[LinkedIn](https://www.linkedin.com/in/oleksii-hiriavenko//)
+#### 📃 [My CV Web Version](https://alexhiriavenko.github.io/rsschool-cv/) 
+#### 📃 [My CV PDF Version](https://drive.google.com/file/d/18C7pwdXaULREjBnGeoD6vTAh0SF-41Qc/view?usp=sharing)
 
 <!---
 AlexHiriavenko/AlexHiriavenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
