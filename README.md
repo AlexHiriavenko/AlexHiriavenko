@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-#### &nbsp;&nbsp; &#128435; &nbsp; Passionate about front-end and programming in general.
-#### &nbsp;&nbsp; &#9989; &nbsp; I have the necessary technology stack to develop modern applications and user interfaces. 
-#### &nbsp;&nbsp; 💞️ I am seeking opportunities as a Frontend Developer and I'm excited to explore new offers and connect with like-minded in the field.
+&nbsp;&nbsp; &#128435; &nbsp; Passionate about front-end and programming in general.<br>
+&nbsp;&nbsp; &#9989; &nbsp; I have the necessary technology stack to develop modern applications and user interfaces.<br> 
+&nbsp;&nbsp; 💞️ I am seeking opportunities as a Frontend Developer and I'm excited to explore new offers and connect with like-minded in the field.<br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
