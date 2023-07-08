@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-#### &#128435; &nbsp; Passionate about front-end and programming in general.
-#### &#9989; &nbsp; I have the necessary technology stack to develop modern applications and user interfaces. 
-#### 💞️ I am seeking opportunities as a Frontend Developer and I'm excited to explore new offers and connect with like-minded in the field.
+#### &nbsp;&nbsp; &#128435; &nbsp; Passionate about front-end and programming in general.
+#### &nbsp;&nbsp; &#9989; &nbsp; I have the necessary technology stack to develop modern applications and user interfaces. 
+#### &nbsp;&nbsp; 💞️ I am seeking opportunities as a Frontend Developer and I'm excited to explore new offers and connect with like-minded in the field.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -33,7 +33,6 @@
 
 #### &#128232; martmarchmartmarch@gmail.com
 #### [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/oleksii-hiriavenko//)
-[LinkedIn](https://www.linkedin.com/in/oleksii-hiriavenko//)
 #### 📃 [My CV Web Version](https://alexhiriavenko.github.io/rsschool-cv/) 
 #### 📃 [My CV PDF Version](https://drive.google.com/file/d/18C7pwdXaULREjBnGeoD6vTAh0SF-41Qc/view?usp=sharing)
 
