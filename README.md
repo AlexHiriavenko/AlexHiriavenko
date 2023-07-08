@@ -32,11 +32,11 @@
 <h3> 📫 &nbsp; Contacts</h3>
 
  #### &nbsp;&nbsp; &#128232; martmarchmartmarch@gmail.com
- #### &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/oleksii-hiriavenko//) &nbsp; / &nbsp; [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)](https://t.me/Alleexxeeyy)
+ #### &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/oleksii-hiriavenko//) &nbsp;&nbsp; [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)](https://t.me/Alleexxeeyy)
 
- <h3> 📃 &nbsp; My CV</h3>
+ <h3> 📃 &nbsp; CV</h3>
  
- #### &nbsp;&nbsp; [CV Web Version](https://alexhiriavenko.github.io/rsschool-cv/) / [CV PDF Version](https://drive.google.com/file/d/18C7pwdXaULREjBnGeoD6vTAh0SF-41Qc/view?usp=sharing)
+ ##### &nbsp;&nbsp; [My CV Web Version](https://alexhiriavenko.github.io/rsschool-cv/) / [My CV PDF Version](https://drive.google.com/file/d/18C7pwdXaULREjBnGeoD6vTAh0SF-41Qc/view?usp=sharing)
 
 <!---
 AlexHiriavenko/AlexHiriavenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
