@@ -31,7 +31,8 @@
 
 <h3> 📫 &nbsp; Contacts & CV</h3>
 
- #### &nbsp;&nbsp; &#128232; martmarchmartmarch@gmail.com / [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/oleksii-hiriavenko//) / [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)](https://t.me/Alleexxeeyy)
+ #### &nbsp;&nbsp; &#128232; martmarchmartmarch@gmail.com
+ #### [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/oleksii-hiriavenko//) &nbsp / &nbsp [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)](https://t.me/Alleexxeeyy)
  #### &nbsp;&nbsp; 📃 [My CV Web Version](https://alexhiriavenko.github.io/rsschool-cv/) / [My CV PDF Version](https://drive.google.com/file/d/18C7pwdXaULREjBnGeoD6vTAh0SF-41Qc/view?usp=sharing)
 
 <!---
