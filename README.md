@@ -33,8 +33,7 @@
 
  #### &nbsp;&nbsp; &#128232; martmarchmartmarch@gmail.com
  #### &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/oleksii-hiriavenko//)
- #### &nbsp;&nbsp; 📃 [My CV Web Version](https://alexhiriavenko.github.io/rsschool-cv/) 
- #### &nbsp;&nbsp; 📃 [My CV PDF Version](https://drive.google.com/file/d/18C7pwdXaULREjBnGeoD6vTAh0SF-41Qc/view?usp=sharing)
+ #### &nbsp;&nbsp; 📃 [My CV Web Version](https://alexhiriavenko.github.io/rsschool-cv/) / [My CV PDF Version](https://drive.google.com/file/d/18C7pwdXaULREjBnGeoD6vTAh0SF-41Qc/view?usp=sharing)
 
 <!---
 AlexHiriavenko/AlexHiriavenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
