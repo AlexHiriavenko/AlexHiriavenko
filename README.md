@@ -28,7 +28,12 @@
     ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
     ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
     ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
-
+-   🚀 &nbsp;
+    ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+    ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+    ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+    ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
+    
 <h3> 📫 &nbsp; Contacts</h3>
 
  #### &nbsp;&nbsp; &#128232; martmarchmartmarch@gmail.com
