@@ -30,6 +30,7 @@
     ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
     ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
     ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
+    <br>
 🚀 &nbsp;
     ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
     ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
