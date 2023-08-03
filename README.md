@@ -18,10 +18,12 @@
     ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
     ![MUI](https://img.shields.io/badge/-Mui-333333?style=flat&logo=mui)
     ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+    <br>
 ⚙️ &nbsp;
     ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
     ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
     ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+    <br>
 🔧 &nbsp;
     ![Gulp](https://img.shields.io/badge/-Gulp-333333?style=flat&logo=gulp)
     ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
@@ -33,6 +35,7 @@
     ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
     ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
     ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
+    <br>
     
 <h3> 📫 &nbsp; Contacts</h3>
 
