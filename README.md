@@ -36,6 +36,7 @@
     ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
     ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
     ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
+    ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
     <br>
     
 <h3> 📫 &nbsp; Contacts</h3>
