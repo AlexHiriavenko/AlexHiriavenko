@@ -46,7 +46,7 @@
 
  <h3> 📃 &nbsp; CV</h3>
  
- ##### &nbsp;&nbsp; [My CV Web Version](https://alexhiriavenko.github.io/rsschool-cv/) &nbsp;/&nbsp; [My CV PDF Version](https://drive.google.com/file/d/1Kfmr-lwIEN3rDB3hd9LeDG-YLep4ExrH/view?usp=sharing)
+ ##### &nbsp;&nbsp; [My CV Web Version](https://alexhiriavenko.github.io/CV/) &nbsp;/&nbsp; [My CV PDF Version](https://drive.google.com/file/d/1Kfmr-lwIEN3rDB3hd9LeDG-YLep4ExrH/view?usp=sharing)
 
 <!---
 AlexHiriavenko/AlexHiriavenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
