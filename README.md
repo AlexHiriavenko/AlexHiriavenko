@@ -1,21 +1,21 @@
 <h2>👋 Hey there! I'm Alex, Frontend Developer</h2>
-
+<br>
 <h3> 👨🏻 &nbsp;About Me </h3>
 
-&nbsp;&nbsp; &#128435; &nbsp; Passionate about front-end and programming in general.<br>
+&nbsp;&nbsp; 💻 &nbsp; Passionate about front-end and programming in general.<br>
 &nbsp;&nbsp; &#9989; I have the necessary technology stack to develop modern applications and user interfaces.<br>
-&nbsp;&nbsp; 💞️ I am seeking opportunities as a Frontend Developer and I'm excited to explore new offers and connect with like-minded in the field.<br>
-
+&nbsp;&nbsp; 🔎 I am seeking opportunities as a Frontend Developer and I'm excited to explore new offers and connect with like-minded in the field.<br>
+<br>
 <h3> 📫 &nbsp; Contacts</h3>
 
-#### &nbsp;&nbsp; &#128232; martmarchmartmarch@gmail.com
+#### &nbsp;&nbsp; @ martmarchmartmarch@gmail.com
 
 #### &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/oleksii-hiriavenko/) &nbsp;&nbsp; [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)](https://t.me/AlexHiriavenko)
-
+<br>
 <h3> 📃 &nbsp; CV</h3>
  
  ##### &nbsp;&nbsp; [My CV Web Version](https://alexhiriavenko.github.io/CV/) &nbsp;/&nbsp; [My CV PDF Version](https://drive.google.com/file/d/1Kfmr-lwIEN3rDB3hd9LeDG-YLep4ExrH/view?usp=sharing)
-
+<br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 🌐 &nbsp;
@@ -36,9 +36,9 @@
 <br>
 🔧 &nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Pinia](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Pinia](https://img.shields.io/badge/-Pinia-333333?style=flat&logo=vue.js)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify)
-<br>https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql
+<br>
 📁 &nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 <br>
@@ -59,7 +59,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 <br>
-
+<br>
 <h3> 🎮 &nbsp; A little more</h3>
 
  <p>
