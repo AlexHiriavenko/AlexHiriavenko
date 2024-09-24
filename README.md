@@ -1,3 +1,5 @@
+[![MasterHead](prevew.png)](https://github.com/AlexHiriavenko)
+
 <h2>👋 Hey there! I'm Alex, Frontend Developer</h2>
 <br>
 <h3> 👨🏻 &nbsp;About Me </h3>
@@ -6,11 +8,13 @@
 &nbsp;&nbsp; &#9989; &nbsp; I have the necessary technology stack to develop modern applications and user interfaces.<br>
 &nbsp;&nbsp; 🔎 &nbsp; I am seeking opportunities as a Frontend Developer and I'm excited to explore new offers and connect with like-minded in the field.<br>
 <br>
+
 <h3> 📫 &nbsp; Contacts</h3>
 
 #### &nbsp;&nbsp; @ martmarchmartmarch@gmail.com
 
 #### &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/oleksii-hiriavenko/) &nbsp;&nbsp; [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)](https://t.me/AlexHiriavenko)
+
 <br>
 <h3> 📃 &nbsp; CV</h3>
  
@@ -60,6 +64,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 <br>
 <br>
+
 <h3> 🎮 &nbsp; A little more</h3>
 
  <p>
