@@ -15,6 +15,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
 <br>
 🌐 &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -31,8 +32,12 @@
 ![Pinia](https://img.shields.io/badge/-Pinia-333333?style=flat&logo=vue.js)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify)
 <br>
-📁 &nbsp;
+🔧 &nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+<br>
+🛢️ &nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 <br>
 ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -47,6 +52,7 @@
 🚀 &nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+![Railway](https://img.shields.io/badge/-Railway-333333?style=flat&logo=railway)
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
