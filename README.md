@@ -35,7 +35,7 @@
 🔧 &nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 <br>
-🛢️ &nbsp;
+🛢️ &nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 <br>
