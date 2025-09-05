@@ -3,8 +3,8 @@
 <h2>👋 Hey there! I'm Alex, Frontend Developer</h2>
 <h3> 👨🏻 &nbsp;About Me </h3>
 
-&nbsp;&nbsp; 💻 &nbsp; Passionate about front-end and programming in general.<br>
-&nbsp;&nbsp; &#9989; &nbsp; I have the necessary technology stack to develop modern applications and user interfaces.<br>
+&nbsp;&nbsp; 💻 &nbsp; Passionate about front-end, back-end and programming in general.<br>
+&nbsp;&nbsp; &#9989; &nbsp; As a full-stack developer, I have the necessary technology stack to develop modern applications and user interfaces.<br>
 &nbsp;&nbsp; 🔎 &nbsp; I am seeking opportunities as a Fullstack/Frontend Developer and I'm excited to connect with like-minded in the field.<br>
 <br>
 
@@ -31,12 +31,15 @@
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Pinia](https://img.shields.io/badge/-Pinia-333333?style=flat&logo=vue.js)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-333333?style=flat&logo=vuetify)
+![Primevue](https://img.shields.io/badge/-Primevue-333333?style=flat&logo=primevue)
 <br>
 🔧 &nbsp;
+![Laravel](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=nestjs)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 <br>
 🛢️ &nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 <br>
 ⚙️ &nbsp;
@@ -49,20 +52,25 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
 <br>
+⚙️ &nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+<br>
+✉️ &nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
+<br>
 🚀 &nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
 ![Railway](https://img.shields.io/badge/-Railway-333333?style=flat&logo=railway)
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
-![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 <br>
 
 <h3> 📫 &nbsp; Contacts</h3>
 
 #### &nbsp;&nbsp; @ martmarchmartmarch@gmail.com
 
-#### &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/oleksii-hiriavenko/) &nbsp;&nbsp; [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)](https://t.me/AlexHiriavenko)
+#### &nbsp;&nbsp; [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksii-hiriavenko/) &nbsp;&nbsp; [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)](https://t.me/AlexHiriavenko)
 
 <br>
 <h3> 📃 &nbsp; CV</h3>
