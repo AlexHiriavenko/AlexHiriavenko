@@ -75,7 +75,7 @@
 <br>
 <h3> 📃 &nbsp; CV</h3>
  
- ##### &nbsp;&nbsp; [My CV Web Version](https://alexhiriavenko.github.io/CV/) &nbsp;/&nbsp; [My CV PDF Version](https://drive.google.com/file/d/1Kfmr-lwIEN3rDB3hd9LeDG-YLep4ExrH/view?usp=sharing)
+ ##### &nbsp;&nbsp; [My CV Web Version](https://ma_rch.gitlab.io/cv_fullstack_alex_giryavenko/) &nbsp;/&nbsp; [My CV PDF Version](https://drive.google.com/file/d/1Kfmr-lwIEN3rDB3hd9LeDG-YLep4ExrH/view?usp=sharing)
 <br>
 
 <h3> 🎮 &nbsp; A little more</h3>
