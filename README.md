@@ -1,6 +1,6 @@
 [![MasterHead](prevew.png)](https://github.com/AlexHiriavenko)
 
-<h2>👋 Hey there! I'm Alex, Frontend Developer</h2>
+<h2>👋 Hey there! I'm Alex, FullStack Developer</h2>
 <h3> 👨🏻 &nbsp;About Me </h3>
 
 &nbsp;&nbsp; 💻 &nbsp; Passionate about front-end, back-end and programming in general.<br>
