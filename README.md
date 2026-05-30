@@ -70,7 +70,7 @@
 
 #### &nbsp;&nbsp; @ martmarchmartmarch@gmail.com
 
-#### &nbsp;&nbsp; [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-hiriavenko/) &nbsp;&nbsp; [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)](https://t.me/AlexHiriavenko)
+#### &nbsp;&nbsp; [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/alex-hiriavenko/) &nbsp;&nbsp; [![Telegram](https://img.shields.io/badge/-Telegram-333333?style=flat&logo=telegram)](https://t.me/AlexHiriavenko)
 
 <br>
 <h3> 📃 &nbsp; CV</h3>
