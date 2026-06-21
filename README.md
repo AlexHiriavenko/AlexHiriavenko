@@ -35,7 +35,7 @@
 ![Primevue](https://img.shields.io/badge/-Primevue-333333?style=flat&logo=primevue)
 <br>
 🔧 &nbsp;
-![Laravel](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=nestjs)
+![NestJS](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=nestjs)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 <br>
 🛢️ &nbsp;&nbsp;
@@ -69,13 +69,10 @@
 
 <h3> 📫 &nbsp; Contacts</h3>
 
-#### &nbsp;&nbsp; Email: martmarchmartmarch@gmail.com
-
-#### &nbsp;&nbsp; LinkedIn: [Alex Hiriavenko on LinkedIn](https://www.linkedin.com/in/alex-hiriavenko/)
-
-#### &nbsp;&nbsp; GitHub: [AlexHiriavenko](https://github.com/AlexHiriavenko)
-
-#### &nbsp;&nbsp; Telegram: [@AlexHiriavenko](https://t.me/AlexHiriavenko)
+#### &nbsp;&nbsp; [![Email martmarchmartmarch@gmail.com](https://img.shields.io/badge/-martmarchmartmarch%40gmail.com-587096?style=flat&logo=gmail&logoColor=white)](mailto:martmarchmartmarch@gmail.com)
+#### &nbsp;&nbsp; [![Alex Hiriavenko on LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/alex-hiriavenko/)
+#### &nbsp;&nbsp; [![Alex Hiriavenko on Telegram](https://img.shields.io/badge/-Telegram-0A66C2?style=flat&logo=telegram&logoColor=white)](https://t.me/AlexHiriavenko)
+#### &nbsp;&nbsp; [![Alex Hiriavenko on GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/AlexHiriavenko)
 
 <br>
 <h3> 📃 &nbsp; CV</h3>
