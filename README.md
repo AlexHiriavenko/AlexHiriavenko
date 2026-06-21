@@ -65,7 +65,10 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
 ![Railway](https://img.shields.io/badge/-Railway-333333?style=flat&logo=railway)
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+<br>
+🤖 &nbsp; 
+![OpenAI Codex](https://img.shields.io/badge/-OpenAI%20Codex-333333?style=flat&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-333333?style=flat&logo=anthropic&logoColor=white)
 <br>
 
 <h3> 📫 &nbsp; Contacts</h3>
