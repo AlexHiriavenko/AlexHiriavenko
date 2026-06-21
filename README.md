@@ -4,9 +4,10 @@
 <h2>👋 Hey there! I'm Alex, FullStack Developer</h2>
 <h3> 👨🏻 &nbsp;About Me </h3>
 
-&nbsp;&nbsp; 💻 &nbsp; Passionate about front-end, back-end and programming in general.<br>
-&nbsp;&nbsp; &#9989; &nbsp; As a full-stack developer, I have the necessary technology stack to develop modern applications and user interfaces.<br>
-&nbsp;&nbsp; 🔎 &nbsp; I am seeking opportunities as a Fullstack/Frontend Developer and I'm excited to connect with like-minded in the field.<br>
+&nbsp;&nbsp; 💻 &nbsp; I'm Alex Hiriavenko, a Fullstack Developer working with Vue 3, Node.js, NestJS, Laravel, TypeScript, PHP, PostgreSQL and MySQL.<br>
+&nbsp;&nbsp; ✅ &nbsp; I develop web applications, backend services, APIs, CRM features, appointment flows, bots and SEO-indexed public websites.<br>
+&nbsp;&nbsp; 🛠 &nbsp; My focus is clean architecture, maintainable code, API performance, database optimization and reliable business logic.<br>
+&nbsp;&nbsp; 🔎 &nbsp; I am open to Fullstack/Frontend/Backend Developer opportunities and excited to connect with people in the IT field.<br>
 <br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
