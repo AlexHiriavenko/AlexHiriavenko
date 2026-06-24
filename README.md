@@ -8,7 +8,10 @@
 - ✅ I develop web applications, backend services, APIs, CRM features, appointment flows, bots and SEO-indexed public websites.
 - 🛠 My focus is clean architecture, maintainable code, API performance, database optimization and reliable business logic.
 - 🔎 I am open to Fullstack/Frontend/Backend Developer opportunities and excited to connect with people in the IT field.
-<br>
+
+<h3> 🔎 &nbsp; Also known as / Name variants</h3>
+
+<p> My name may appear in different transliterations: <strong>Alex Hiriavenko</strong>, <strong>Oleksii Hiriavenko</strong>, <strong>Oleksiy Hiriavenko</strong>, <strong>Alexey Hiriavenko</strong>, <strong>Alex Giryavenko</strong>, <strong>Alexey Giryavenko</strong>, <strong>Oleksii Giryavenko</strong>, <strong>Oleksiy Giryavenko</strong>, <strong>Алексей Гирявенко</strong>, <strong>Олексій Гірявенко</strong>, <strong>Алексій Гірявенко</strong>. </p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
