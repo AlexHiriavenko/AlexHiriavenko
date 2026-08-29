@@ -45,6 +45,7 @@
 🛢️ &nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 <br>
 ⚙️ &nbsp;
