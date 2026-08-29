@@ -61,7 +61,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 <br>
-🔎
+🔎 &nbsp;
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
 ![Lens](https://img.shields.io/badge/-Lens-333333?style=flat&logo=lens)
 ![Senry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=sentry)
