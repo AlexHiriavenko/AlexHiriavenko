@@ -102,17 +102,7 @@
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=AlexHiriavenko&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHiriavenko&theme=dark&layout=donut">
-</p>
-
-<p>
   <img
     src="https://streak-stats.demolab.com?user=AlexHiriavenko&theme=dark"
-    alt="GitHub Streak"
-  >
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexHiriavenko&theme=dark&layout=donut"
-    alt="Top Languages"
-  >
+    alt="GitHub Streak">
 </p>
